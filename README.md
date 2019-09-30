@@ -6,3 +6,4 @@
 ###### MultiMedia 6
 
 + GitHub Class
+멀티미디어 학과 *GitHub*
